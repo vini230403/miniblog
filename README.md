@@ -6,4 +6,4 @@ Para inicializá-lo, siga os comandos:
 
 npm install
 
-npm start
+npm run dev
