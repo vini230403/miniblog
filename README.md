@@ -6,4 +6,8 @@ Para inicializá-lo, siga os comandos:
 
 npm install
 
+npm install react-router-dom
+
+npm install firebase
+
 npm run dev
